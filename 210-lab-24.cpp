@@ -1,6 +1,6 @@
 // COMSC-210 | Lab 24 | Mamadou Sissoko
 // IDE used: Visual Studio Code
-// Goat manager converted to std::set
+// Goat manager converted to a std::set
 
 #include <iostream>
 #include <fstream>
